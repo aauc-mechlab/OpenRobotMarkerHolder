@@ -1,10 +1,10 @@
 OpenRobotMarkerHolder
 ================
-An open-source robot marker holder
+An open-source robot marker holder that be connected to the FESTO Parallel gripper DHPS.
 
 Authors
 ================
-Audun Høimyr Westerskow, Anders Bakken Kobbevik, Simon Langlo
+Audun Høimyr Westerskow
 
 Supervisor
 ================
